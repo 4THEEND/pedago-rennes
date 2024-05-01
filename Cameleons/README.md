@@ -57,4 +57,4 @@ Il existe une version intéractive disponible ici: [https://github.com/Robotechn
 
 ### Tableau noir
 
-Il y a aussi un fichier tableau noir dans le dossier materiel [cameleons.tableaunoir](materiel/cameleons.tableaunoir) qui permet de manipuler les pions de jeu de manière libre sur [tableau noir](https://tableaunoir.irisa.fr/).
+Il y a aussi un fichier tableau noir dans le dossier materiel [cameleons.tableaunoir](Materiel/cameleons.tableaunoir) qui permet de manipuler les pions de jeu de manière libre sur [tableau noir](https://tableaunoir.irisa.fr/).
