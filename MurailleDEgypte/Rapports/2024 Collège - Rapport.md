@@ -21,4 +21,12 @@ Au niveau de la trace écrite et de l'institutionalisation nous avons décidé d
 
 ## Bilan
 
-Nous pensons qu'un axe d'évolution majeure de l'activité serait de rendre l'institutionnalisation plus fluide, qui semble naturelle après l'activité, et de distribuer une fiche d'aide et de règles à tout les groupes pour qu'ils l'aient pendant toute l'heure
+Nous pensons qu'un axe d'évolution majeure de l'activité serait de rendre l'institutionnalisation plus fluide, qui semble naturelle après l'activité, et de distribuer une fiche d'aide et de règles à tout les groupes pour qu'ils l'aient pendant toute l'heure.
+
+## Lore
+
+Dans cette activité vous allez vous mettre dans la peau de deux bâtisseurs qui vont fabriquer une pyramde. La pyramide est fabriquée à l'aide de deux types de pierres : des blanches et des noires.
+Chaque pierre vient d'une carrière différente. Comme les bâtisseurs sont bien organisés, pendant que l'un pose une pierre, l'autre peut aller chercher sa prochaine pierre. Donc vous voulez faire en sorte d'alterner les couleurs : vous compterez le nombre de fois où vous posez deux pierres de la même couleur d'affilé, ce seront des jours perdus. L'objectif de ce jeu est de construire la pyramide en perdant le moins de jours possibles.
+
+Quand vous posez une pierre, celle ci doit être bien posée. Cela signifie que vous devez avoir deux pierres en dessous de chaque pierre (sauf celles sur le sol).
+Par ailleurs, les échelles pour poser les pierres sont situées à droite, donc si vous posez une pierre au milieu il deviendra compliqué d'aller poser celle derrière sur la ligne (faire un dessin). Vous allez donc poser les pierres le plus à gauche possible.
