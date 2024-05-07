@@ -1,3 +1,6 @@
+Cette activité est adaptée <a href="https://www.youtube.com/watch?v=_dIhSQgq_vQ">d'une vidéo de Micmaths</a>.
+Elle est également à mettre en rapprochement avec <a href="https://portail.terra-numerica.org/res/rsrc/807">cette activité</a> qui est dans la même idée de poursuite dans un graphe.
+
 # Règles du jeu
 
 Un monstre s’est caché dans notre maison !\
