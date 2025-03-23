@@ -1,11 +1,15 @@
+image: alpine:latest
+
 pages:
-  image: alpine:latest
+#  image: alpine-infosansordi
   script:
-  - apk add --no-cache mdbook pipx
+  - apk add --no-cache mdbook pipx texlive make
   - pipx install --global linkchecker
   - cd info-débranchée ; mdbook build
+  - make -C src/Nim
   - mkdir ../public; mv book/* ../public
   - linkchecker ../public
   artifacts:
     paths:
     - public
+
