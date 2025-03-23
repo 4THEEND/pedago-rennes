@@ -72,18 +72,20 @@ La notion de stratégie gagnante présentée ici est ce qu'on nomme **algorithme
 en informatique, et c'est absolument fondamental quand on veut utiliser des
 ordinateurs. En effet, les ordinateurs ne font que ce qu'on leur demande, sans
 aucune forme d'imagination ni d'initiative. Il faut donner des instructions
-incroyablement détaillées à l'ordinateur pour qu'il fasse ce qui est attendu. 
+incroyablement détaillées à l'ordinateur pour qu'il fasse ce qui est attendu.
 
 D'une certaine façon, programmer un ordinateur c'est chercher la stratégie
 gagnante l'emmenant à coup sûr d'une situation initiale à la situation finale attendue.
 
 ## Matériel
 
-- Fiches de prép :
-- Trace écrite : [pdf imprimable](nim_trace_ecrite.pdf), [source LaTeX/TiKZ](nim_trace_ecrite.tex)
-- Matériel à imprimer : le plu simple est d'utiliser les jetons de la série
+- Fiches de prép : [v2017](nim_prep_2017_BautistaBordais.pdf)
+- Trace écrite : [pdf imprimable](nim_trace_ecrite.pdf)
+- Matériel à imprimer : le plus simple est d'utiliser les jetons de la série
   d'activité SMN, à imprimer sur une feuille A4 autocollante à coller sur du
   carton plume.
+
+Les fichiers sources des pdfs sont dans le git.
 
 ## Références et discussion
 
