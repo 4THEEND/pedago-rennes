@@ -1,0 +1,6 @@
+[book]
+authors = ["Martin Quinson"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Informatique débranchée"
