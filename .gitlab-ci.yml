@@ -1,5 +1,3 @@
-
-
 pages:
   image: alpine:latest
   script:
@@ -11,5 +9,3 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - main
