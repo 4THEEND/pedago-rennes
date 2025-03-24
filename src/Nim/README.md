@@ -89,7 +89,18 @@ gagnante l'emmenant à coup sûr d'une situation initiale à la situation finale
 
 Cette activité est un grand classique du folklore de la médiation mathématique,
 comme détaillé sur la [page wikipedia
-associée](https://fr.wikipedia.org/wiki/Jeux_de_Nim).
+associée](https://fr.wikipedia.org/wiki/Jeux_de_Nim). Quelques autres liens la
+décrivant :
+
+- Une [fiche du site
+  Pixees](http://people.irisa.fr/Martin.Quinson/Mediation/SMN/) est consacrée à
+  cette activité.
+- Marie Duflot a fait [une
+  vidéo](https://www.youtube.com/watch?list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5&v=3WIghG_B4nU)
+  sur le jeu de Nim.
+- Pour une variante avec une stratégie plus compliquée, allez donc voir le [jeu
+  de Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad).
+
 
 ### Rapports de terrain
  - [Adam et Timmerman](2023_AdamTimmerman_Rapport.html) (2023)
