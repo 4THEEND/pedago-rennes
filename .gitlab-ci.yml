@@ -1,7 +1,19 @@
-image: alpine:latest
+stages:
+  - build
+  - publish
+    
+build_image:
+  stage: build
+  image: docker:latest
+  script:
+    - docker build -t alpine-infosansordi .
+  rules:
+    - changes:
+      - Dockerfile
 
 pages:
-#  image: alpine-infosansordi
+  stage: publish
+  image: alpine-infosansordi
   script:
   - apk add --no-cache mdbook pipx py3-markdown texlive texmf-dist-langfrench texmf-dist-latexextra make
   - pipx install --global linkchecker
