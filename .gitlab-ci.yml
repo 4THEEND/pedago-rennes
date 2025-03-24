@@ -1,7 +1,10 @@
 stages:
   - build
   - publish
-    
+
+services:
+  - docker:dind
+
 build_image:
   stage: build
   image: docker:latest
