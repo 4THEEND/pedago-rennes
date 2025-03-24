@@ -102,7 +102,7 @@ décrivant :
   de Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad).
 
 
-### Rapports de terrain
- - [Adam et Timmerman](2023_AdamTimmerman_Rapport.html) (2023)
- - [Rautureau et Hamon](2023_RautureauHamon_Rapport.html) (2023)
- - [Troublé et Tanguy-Legac](2024_TroubleTanguyLegac_Rapport.html) (2024)
+### Rapports d'expériences
+ - [Adam et Timmerman](Rapports/2023_AdamTimmerman.html) (2023)
+ - [Rautureau et Hamon](Rapports/2023_RautureauHamon.html) (2023)
+ - [Troublé et Tanguy-Legac](Rapports/2024_TroubleTanguyLegac.html) (2024)
