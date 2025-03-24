@@ -5,11 +5,10 @@ pages:
   script:
   - apk add --no-cache mdbook pipx py3-markdown texlive texmf-dist-langfrench texmf-dist-latexextra make
   - pipx install --global linkchecker
-  - cd info-débranchée
   - for dir in Nim ; do make -C src/${dir} clean all ; done
   - mdbook build
-  - mkdir ../public; mv book/* ../public
-  - linkchecker ../public
+  - mkdir public; mv book/* public
+  - linkchecker public
   artifacts:
     paths:
     - public

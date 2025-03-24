@@ -1,6 +1,9 @@
 TRACES= nim_trace_ecrite.pdf
 PREPS=  nim_prep_2017_BautistaBordais.pdf
-RAPPORTS= 2023_AdamTimmerman_Rapport.html
+
+RAPPORS=   
+RAPPORTS+= 2023_AdamTimmerman_Rapport.html 2023_RautureauHamon_Rapport.html 
+RAPPORTS+= 2024_TroubleTanguyLegac_Rapport.html
 
 all: ${TRACES} ${PREPS} ${RAPPORTS}
 

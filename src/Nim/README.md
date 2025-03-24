@@ -85,14 +85,13 @@ gagnante l'emmenant à coup sûr d'une situation initiale à la situation finale
   d'activité SMN, à imprimer sur une feuille A4 autocollante à coller sur du
   carton plume.
 
-Les fichiers sources des pdfs sont dans le git.
-
 ## Références et discussion
 
 Cette activité est un grand classique du folklore de la médiation mathématique,
 comme détaillé sur la [page wikipedia
 associée](https://fr.wikipedia.org/wiki/Jeux_de_Nim).
 
-Rapports de terrain:
+### Rapports de terrain
  - [Adam et Timmerman](2023_AdamTimmerman_Rapport.html) (2023)
-
+ - [Rautureau et Hamon](2023_RautureauHamon_Rapport.html) (2023)
+ - [Troublé et Tanguy-Legac](2024_TroubleTanguyLegac_Rapport.html) (2024)
