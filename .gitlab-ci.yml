@@ -3,10 +3,10 @@ image: alpine:latest
 pages:
 #  image: alpine-infosansordi
   script:
-  - apk add --no-cache mdbook pipx texlive texmf-dist-langfrench texmf-dist-latexextra make
+  - apk add --no-cache mdbook pipx py3-markdown texlive texmf-dist-langfrench texmf-dist-latexextra make
   - pipx install --global linkchecker
   - cd info-débranchée
-  - make -C src/Nim
+  - for dir in Nim ; do make -C src/${dir} clean all ; done
   - mdbook build
   - mkdir ../public; mv book/* ../public
   - linkchecker ../public

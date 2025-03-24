@@ -92,3 +92,7 @@ Les fichiers sources des pdfs sont dans le git.
 Cette activité est un grand classique du folklore de la médiation mathématique,
 comme détaillé sur la [page wikipedia
 associée](https://fr.wikipedia.org/wiki/Jeux_de_Nim).
+
+Rapports de terrain:
+ - [Adam et Timmerman](2023_AdamTimmerman_Rapport.html) (2023)
+

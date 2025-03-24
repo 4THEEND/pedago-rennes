@@ -1,10 +1,17 @@
-all: nim_trace_ecrite.pdf nim_prep_2017_BautistaBordais.pdf
+TRACES= nim_trace_ecrite.pdf
+PREPS=  nim_prep_2017_BautistaBordais.pdf
+RAPPORTS= 2023_AdamTimmerman_Rapport.html
+
+all: ${TRACES} ${PREPS} ${RAPPORTS}
 
 clean: 
-	rm -f *.aux *.log
+	rm -f *.aux *.log *.html *.pdf *~
 
 %.pdf: %.tex
-	pdflatex $<
+	pdflatex $< -o $@
 	
 %.pdf: %.typ
-	typst compile $<
+	typst compile $< $@
+
+%.html: %.md
+	python ../../md-to-html.py $< $@
