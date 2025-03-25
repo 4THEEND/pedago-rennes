@@ -1,7 +1,5 @@
 # Sommaire des activités recensées ici
 
-Le dépôt est organisé de la façon suivante : chaque activité a un dossier à la racine, les activités sont dans l'ordre alphabétique. Chaque dossier
-est décomposé en sous dossier contenants les différents types de ressources.
 
 Vous trouverez dans ce sommaire une classification des activités par concepts (algorithmes, langages, information, machine), et par compétences
 (pensée algorithmique, abstraction, décomposition, généralisation et motifs, évaluation, logique). Chaque catégorie se voit attribuer ., \*, ou \*\*

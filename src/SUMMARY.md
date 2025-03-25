@@ -6,3 +6,4 @@
 - [Préparer une activité](chap2_preparation.md)
 - [Les activités](chap3_activités.md)
   - [Jeu de Nim](Nim/README.md)
+  - [Contribuer aux activités](Template_activité.md)
