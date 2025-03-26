@@ -25,14 +25,49 @@ logique), également détaillées plus bas.
 Ces activités sont bien testées et assez faciles à mettre en oeuvre. Mais cela
 ne veut pas dire pour autant qu'on peut animer une séance sans la préparer correctement.
 
-- Nim
-- Crêpes
-- Blasons + ImagePixel (Images téléphonées)
-- Trier les cartes
-- Caméléons
-- Carré magique
-- Chateau magique
-- Chateau pas très fort
+### [Nim](Nim/)
+
+Deux joueurs s’affrontent et tentent de déterminer une stratégie gagnante. C'est
+une très bonne introduction à la notion d'algorithme.
+
+Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
+
+**Concepts.** Algorithme: 2; Langage: 0; Information: 0; Machine: 0
+
+**Compétences.** Pensée algorithmique: 2; Abstraction: 1; Décomposition: 2; Généralisation et motifs 1; Evaluation: 0; Logique: 1
+
+### Crêpier psychorigide
+
+Il faut aider un galettier à ranger ses galettes carrées de la plus grande à la
+plus petite. C'est l'occasion pour les participants de *chercher* un algorithme,
+d'en inventer un. Il est donc naturel de jouer cette activité après le jeu de
+Nim si les conditions s'y prêtent.
+
+Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
+
+**Concepts.**
+ Algorithmes: 2;
+ Langages: 0
+ Information(.)
+ Machine(.)
+
+**Compétences.**
+ Pensée algorithmique: 2;
+ Abstraction: 0;
+ Décomposition: 1;
+ Généralisation et motifs: 0;
+ Évaluation: 0;
+ Logique: 1.
+
+### Blasons
+**Concepts :** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
+### ImagePixel
+(Images téléphonées)
+### Trier les cartes
+### Caméléons
+### Carré magique
+### Chateau magique
+### Chateau pas très fort
 
 ## Activités bleues
 
