@@ -95,7 +95,8 @@ décrivant :
 - Une [fiche du site
   Pixees](http://people.irisa.fr/Martin.Quinson/Mediation/SMN/) est consacrée à
   cette activité.
-- Marie Duflot a fait [une
+- Marie Duflot a [une page](https://members.loria.fr/MDuflot/files/med/nim.html) 
+  et elle a fait [une
   vidéo](https://www.youtube.com/watch?list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5&v=3WIghG_B4nU)
   sur le jeu de Nim.
 - Pour une variante avec une stratégie plus compliquée, allez donc voir le [jeu

@@ -12,56 +12,13 @@ classe et le déroulé comme le matériel demandent à être raffinés. Les acti
 noires ne sont pas prêtes à être jouées pour l'instant (certaines sont à peine
 ébauchées), et elles ont besoin de vous pour avancer.
 
-## Grilles de classification
-
-Chaque activité est par ailleurs classifiée sur deux grilles de lectures. La
-première grille classe les activités en fonction des concepts mis en oeuvre, en
-reprenant la [classification de Gilles
-Dowek](http://www.lsv.fr/~dowek/Philo/quatre.pdf). Pour chaque concept,
-l'activité se voit attribuer 0, 1 ou 2 étoiles selon que l'activité n'utilise
-pas, utilise un peu ou utilise beaucoup ce concept.
-* **Algorithme :** l'activité permet de découvrir la notion d'algorithme, soit
-  en demandant d'en concevoir, soit en demandant d'en suivre (que ce soit
-  explicite ou non).
-* **Langage :** la notion de langage informatique est travaillée, en tant que
-  moyen de communication standardisé. Il peut s'agir de langages de
-  programmation ou de langages de description, mais il n'existe pas d'activité
-  au sujet des langages formels.
-* **Information :** en informatique, la [théorie de
-  l'information](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27information)
-  s'intéresse à la représentation des données, l'encodage de l'information et la
-  transmission de communications.
-* **Machine :** le fonctionnement matériel de l'informatique est abordé au cours
-  de l'activité.
-
-Les activités sont également classifiées au regard de la [grille de compétences
-de CS unpluged](https://www.csunplugged.org/fr/computational-thinking/) :
-* **Pensée algorithmique :** cette compétence correspond au processus de
-  création d'un algorithme, c'est à dire la création d'une solution générale à
-  un problème, avec une description étape par étape, même informelle
-  (explication orale ou pseudo-code plutôt que programme dans un langage bien
-  défini).
-* **Abstraction :** cette compétence est celle de la simplification de la
-  complexité, ignorer les bons détails permettant de traiter plus efficacement
-  un problème. Elle requiert la capacité à identifier ce qui est important et ce
-  que ni l'est pas, et est au coeur de l'activité de modélisation.
-* **Décomposition :** comme son nom l'indique, la décomposition correspond à la
-  compétence de décomposer, par exemple une tâche en sous-tâches, un modèle en
-  ses parties, etc. Cette compétence est par exemple nécessaire à la conception
-  d'un algorithme dont chaque étape résulte de la décomposition d'un problème en
-  plusieurs étapes de résolution.
-* **Généralisation et motifs :** la généralisation est la capacité d'étendre une
-  solution à de nouveaux cas, elle met en jeu l'abstraction car elle demande de
-  reconnaître les motifs communs à tous ces cas en ignorant leur différences
-  particulières.
-* **Évaluation :** l'évaluation consiste à quantifier des solutions, pour
-  pouvoir les comparer leur qualité ou attester des améliorations. L'évaluation
-  peut aussi être qualitative, par exemple quand on se demande si un algorithme
-  est correct.
-* **Logique :** on désigne ici la capacité du raisonnement organisé et
-  rigoureux, permettant de structurer la pensée pour obtenir efficacement des
-  solutions.
-
+Les activités sont aussi triées en fonction des concepts mis en oeuvre
+(Algorithme, Langage, Information et Machine) selon une grille de lecture de
+Gilles Dowek détaillée plus bas sur cette page. Enfin, leur rapport aux
+[compétences identifiées par CS
+unplugged](https://www.csunplugged.org/fr/computational-thinking/) (pensée
+algorithmique, abstraction, décomposition, généralisation et motifs, évaluation,
+logique), également détaillées plus bas.
 
 ## Activités vertes
 
@@ -112,6 +69,56 @@ Deux activités sont bien avancées, mais noire quand même :
   les règles représentent le λ-calcul. Cette activité peut amuser les
   animateur·ices, mais elle s'avère incompréhensible pour les participant·es (on
   a testé et ça s'est pas très bien passé).
+
+## Grilles de classification
+
+Chaque activité est par ailleurs classifiée sur deux grilles de lectures. La
+première grille classe les activités en fonction des concepts mis en oeuvre, en
+reprenant la [classification de Gilles
+Dowek](http://www.lsv.fr/~dowek/Philo/quatre.pdf). Pour chaque concept,
+l'activité se voit attribuer 0, 1 ou 2 étoiles selon que l'activité n'utilise
+pas, utilise un peu ou utilise beaucoup ce concept.
+* **Algorithme :** l'activité permet de découvrir la notion d'algorithme, soit
+  en demandant d'en concevoir, soit en demandant d'en suivre (que ce soit
+  explicite ou non).
+* **Langage :** la notion de langage informatique est travaillée, en tant que
+  moyen de communication standardisé. Il peut s'agir de langages de
+  programmation ou de langages de description, mais il n'existe pas d'activité
+  au sujet des langages formels.
+* **Information :** en informatique, la [théorie de
+  l'information](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27information)
+  s'intéresse à la représentation des données, l'encodage de l'information et la
+  transmission de communications.
+* **Machine :** le fonctionnement matériel de l'informatique est abordé au cours
+  de l'activité.
+
+Les activités sont également classifiées au regard de la [grille de compétences
+de CS unpluged](https://www.csunplugged.org/fr/computational-thinking/) :
+* **Pensée algorithmique :** cette compétence correspond au processus de
+  création d'un algorithme, c'est à dire la création d'une solution générale à
+  un problème, avec une description étape par étape, même informelle
+  (explication orale ou pseudo-code plutôt que programme dans un langage bien
+  défini).
+* **Abstraction :** cette compétence est celle de la simplification de la
+  complexité, ignorer les bons détails permettant de traiter plus efficacement
+  un problème. Elle requiert la capacité à identifier ce qui est important et ce
+  que ni l'est pas, et est au coeur de l'activité de modélisation.
+* **Décomposition :** comme son nom l'indique, la décomposition correspond à la
+  compétence de décomposer, par exemple une tâche en sous-tâches, un modèle en
+  ses parties, etc. Cette compétence est par exemple nécessaire à la conception
+  d'un algorithme dont chaque étape résulte de la décomposition d'un problème en
+  plusieurs étapes de résolution.
+* **Généralisation et motifs :** la généralisation est la capacité d'étendre une
+  solution à de nouveaux cas, elle met en jeu l'abstraction car elle demande de
+  reconnaître les motifs communs à tous ces cas en ignorant leur différences
+  particulières.
+* **Évaluation :** l'évaluation consiste à quantifier des solutions, pour
+  pouvoir les comparer leur qualité ou attester des améliorations. L'évaluation
+  peut aussi être qualitative, par exemple quand on se demande si un algorithme
+  est correct.
+* **Logique :** on désigne ici la capacité du raisonnement organisé et
+  rigoureux, permettant de structurer la pensée pour obtenir efficacement des
+  solutions.
 
 ## Autres collections d'activités débranchées
 
