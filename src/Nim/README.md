@@ -24,16 +24,41 @@ L'intérêt de l'activité est l'existence d'une stratégie gagnante, que les
 participants vont devoir découvrir en jouant ensemble, avant de la co-construire
 pendant la remise en commun.
 
-## Trucs d'animation (spoiler alert)
+## Coin des animateur·ices
 
-La stratégie gagnante consiste à toujours laisser sur la table un nombre de
-jetons qui soit un multiple de quatre pour qu'au dernier tour, l'autre joueur ne
-puisse pas ne laisser qu'un seul jeton sur la table ce qui me forcerait à le
-prendre et à perdre. S'il y a 12 ou 16 jetons initialement, le premier joueur ne
-peut pas atteindre cet état, et c'est donc pour le second joueur que la
-stratégie s'applique.
+L'objectif de cette activité est simplement d'introduire la notion d'algorithme
+comme stratégie gagnante pour un problème donné.
 
-![Représentation graphique de la stratégie gagnante](img/nim_stratégie.svg)
+* Après avoir donné la consigne, laissez jouer les participants.
+* Passez dans les groupes et jouez contre des participants. Quand
+  ils s'étonnent de vous voir jouer, avouez qu'il y a un truc, et que
+  l'objectif de la séance est de le découvrir.
+* Si votre adversaire insiste pour vous laissez commencer, jouez
+  au hasard, et rattrapez la stratégie gagnante à la première erreur.
+* Si un participant connaît déjà la stratégie gagnante du jeu, il pourra
+  vous remplacer pour jouer avec les autres participants.
+
+
+Certains joueurs prennent le jeu trop à coeur. Il faut insister sur
+l'importance de trouver la stratégie pour leur éviter la frustration
+de perdre à coup sûr.
+
+#### Un algorithme pour gagner
+
+Le jeu de Nim est intéressant car il est sans suspense: il existe une
+**stratégie gagnante*** pour permettre au second joueur de gagner à coup sûr: il
+doit laisser 4, 8, 12 ou 16 pions (un multiple de 4).
+
+Pour se convaincre de l'efficacité de cette stratégie, observons par
+exemple le dernier tour. Il reste 4 pions, et c'est à Bob de jouer.
+
+![Stratégie gagnante au dernier tour](img/nim_dernier_tour.svg)
+
+Donc Alice *peut* gagner à coup sûr quand il reste 4 pions au tour de Bob. De la
+même manière, s'il reste 8 pions à Bob, Alice peut le forcer à jouer avec 4
+pions. En jouant ainsi dès le début, elle peut gagner à coup sûr.
+
+![Vue d'ensemble de la stratégie gagnante](img/nim_stratégie.svg)
 
 #### Étayages
 
@@ -55,6 +80,9 @@ derniers jetons de chaque paquet entamé.
   un multiple de trois. Avec 15 jetons, c'est pour le second joueur que la
   stratégie s'applique).
 
+* Et si on peut prendre 1, 2, 3 ou 4 objets à la fois, tu commences ou je
+  commence ?
+
 * On peut jouer à la version de Fort Boyard, où il s'agit de ne pas prendre le
   dernier jeton. La stratégie gagnante dans ce cas est de laisser un nombre de
   jetons qui *ne soit pas* un multiple de 4. Avec 16 jetons initialement, le
@@ -70,14 +98,25 @@ derniers jetons de chaque paquet entamé.
 
 ## C'est de l'informatique !
 
-La notion de stratégie gagnante présentée ici est ce qu'on nomme **algorithme**
-en informatique, et c'est absolument fondamental quand on veut utiliser des
-ordinateurs. En effet, les ordinateurs ne font que ce qu'on leur demande, sans
-aucune forme d'imagination ni d'initiative. Il faut donner des instructions
-incroyablement détaillées à l'ordinateur pour qu'il fasse ce qui est attendu.
+Les ordinateurs ne prennent pas d'initiative, mais ils se contentent de faire
+(extrêmement vite) ce que leur programme leur dit de faire. Les algorithmes sont
+donc très importants pour assurer que l'ordinateur fasse à coup sûr ce que l'on
+attend de lui. D'une certaine façon, programmer un ordinateur c'est chercher la
+stratégie gagnante l'emmenant à coup sûr d'une situation initiale à la situation
+finale attendue.
 
-D'une certaine façon, programmer un ordinateur c'est chercher la stratégie
-gagnante l'emmenant à coup sûr d'une situation initiale à la situation finale attendue.
+On a parfois l'impression que les ordinateurs sont intelligents, mais il ne
+s'agit le plus souvent que de comportement prédéterminés à très grande vitesse.
+Dans un dessin animé, nous voyons une animation alors qu'il n'y a qu'une
+succession d'images fixes. De la même façon, les étapes prédéfinies d'un
+programme nous semblent donner de l'intelligence à l'ordinateur.
+
+Certains algorithmes peuvent *apprendre* de leurs essais (on parle alors
+d'intelligence artificielle), ou tirent leurs actions au hasard (ce sont des
+algorithmes randomisés). Mais au final, leur procédure pour apprendre ou pour
+tirer au hasard est toujours pré-déterminée par le programme utilisé.
+
+
 
 ## Matériel
 
@@ -101,8 +140,16 @@ décrivant :
   et elle a fait [une
   vidéo](https://www.youtube.com/watch?list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5&v=3WIghG_B4nU)
   sur le jeu de Nim.
+- Les IREM de Clermont et Grenoble ont des pages très bien faites sur cette
+  activité, mais ces sites changent tout le temps d'organisation. Il est
+  difficile d'ajouter un lien ici sans qu'il devienne obsolète en quelques mois.
+  Utilisez les fonctions de recherche de ces sites pour retrouver les
+  ressources.
 - Pour une variante avec une stratégie plus compliquée, allez donc voir le [jeu
-  de Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad).
+  de Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad). Il y a
+  plusieurs piles, et on ne peut prendre des jetons que dans une seule pile à la
+  fois. On peut voir la stratégie de cette variante comme une extension 2D de la
+  stratégie du jeu de base, assez linéaire puisqu'on compte avec un seul entier.
 
 
 ### Rapports d'expériences

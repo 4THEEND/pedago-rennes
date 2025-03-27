@@ -59,7 +59,12 @@ Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
  Évaluation: 0;
  Logique: 1.
 
-### Blasons
+### [Blasons](Blasons/)
+
+On décrit le dessin d'un blason à ses camarades, qui cherchent à dessiner le
+blason d'origine d'après les explications. C'est une bonne introduction aux
+notions informatiques liées au langage, comme l'ambiguïté d'une description.
+
 **Concepts :** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
 ### ImagePixel
 (Images téléphonées)
