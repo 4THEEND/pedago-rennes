@@ -15,7 +15,7 @@ Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad), mais il est plus
 pratique d'utiliser les jetons de la série d'activité SMN. Ce matériel est prêt
 à être imprimé sur une feuille A4 autocollante, puis collé sur du carton plume.
 
-Chacun à son tour prend 1, 2 ou 3 objets, et le but est de prendre le dernier
+Chaque joueur à son tour prend 1, 2 ou 3 objets, et le but est de prendre le dernier
 objet sur la table. Les participants connaissent souvent la variante de
 l'émission de télévision *Fort Boyard*, où l'objectif est de **ne pas** prendre
 le dernier objet.
@@ -32,6 +32,8 @@ puisse pas ne laisser qu'un seul jeton sur la table ce qui me forcerait à le
 prendre et à perdre. S'il y a 12 ou 16 jetons initialement, le premier joueur ne
 peut pas atteindre cet état, et c'est donc pour le second joueur que la
 stratégie s'applique.
+
+![Représentation graphique de la stratégie gagnante](img/nim_stratégie.svg)
 
 #### Étayages
 
@@ -63,7 +65,7 @@ derniers jetons de chaque paquet entamé.
   autorisés dans chaque cas, et appliquer l'algorithme de
   [Min-Max](https://fr.wikipedia.org/wiki/Algorithme_minimax) sur ce graphe pour
   trouver la stratégie. Cette variante mériterait d'être mieux décrite ici, mais
-  elle tiendra certainement occupé même les participants les plus rapides le
+  elle tiendra certainement même les participant·es les plus rapides occupé·es  le
   temps que le reste du groupe trouve la version de base.
 
 ## C'est de l'informatique !

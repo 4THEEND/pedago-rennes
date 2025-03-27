@@ -4,6 +4,13 @@ Si vous contribuez au livre, vous acceptez de mettre votre travail sous [licence
 CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Contribuez à
 une activité hors du livre si vous voulez utiliser une autre licence.
 
+Il est préférable d'avoir une bonne connaissance des outils de base sous Linux
+pour contribuer à ce livre, et ce chapitre est rédigé en partant du principe que
+vous savez ce que sont `git`,
+[Markdown](https://rust-lang.github.io/mdBook/format/markdown.html) et `LaTeX`.
+Si ce n'est pas votre cas, votre contribution est quand même bienvenue :
+demandez à des amis de vous aider à l'intégrer.
+
 ## Organisation du git
 
 Le dépôt est encore en cours de rangement. Les activités bien intégrées au livre
@@ -18,21 +25,24 @@ contenants les différents types de ressources:
   normale, mais placée dans un sous-répertoire à elle.
 
 * **FichesDePreparation :** les fiches de préparation, écrite par des
-  générations d'étudiants de l'ENS Rennes. On préfère les sources en Typst, et
-  pour ce qui est du livre, elles sont recompilées automatiquement par le
-  Makefile de leur répertoire. Une bonne fiche de prep donne tout ce dont on a
-  besoin pour animer la séance: objectifs, script temporel suffisamment
-  détaillé, étayages et extensions, et institutionalisation.
+  générations d'étudiants de l'ENS Rennes. On préfère les sources en
+  [Typst](https://typst.app/), et pour ce qui est du livre, elles sont
+  recompilées automatiquement par le Makefile de leur répertoire. Une bonne
+  fiche de prep donne tout ce dont on a besoin pour animer la séance: objectifs,
+  script temporel suffisamment détaillé, étayages et extensions, et
+  institutionalisation.
 
-* **Matériel :** tout ce qu'il faut coller découper avant la séance. Il faut
-  ajouter le svg au git. Pour les activités du livre, c'est recompilé
-  automatiquement mais il faut ajouter le pdf aux activités qui ne sont pas
-  compilées automatiquement.
+* **Matériel :** tout ce qu'il faut coller découper avant la séance. Pour les
+  activités intégrées au livre, il suffit d'ajouter les fichiers au format `svg`
+  dans le git en s'assurant que c'est recompilé par le Makefile. Pour les
+  activités hors du livre, il faut aussi ajouter les fichiers au format `pdf`
+  car rien n'est compilé automatiquement dans ce cas.
 
-* **Rapports :** un fichier markdown par groupe d'animateur·ices. Un bon rapport
-  peut contenir les sections suivantes. Si vous n'avez rien à dire dans une
-  section, omettez là. Écrivez ce qui vous semble utile de dire aux générations
-  suivantes.
+* **Rapports :** un fichier
+  [Markdown](https://rust-lang.github.io/mdBook/format/markdown.html) par groupe
+  d'animateur·ices. Un bon rapport peut contenir les sections suivantes. Si vous
+  n'avez rien à dire dans une section, omettez-la. Écrivez ce qui vous semble
+  utile de dire aux générations suivantes.
   * *Contexte :* niveau de la classe, éventuellement le nom des animateur·rices,
     et éventuellement le nom de l'école. Attention, il ne faut mettre **aucune
     information nominative** sur l'enseignant ou les participant·es.
@@ -41,7 +51,8 @@ contenants les différents types de ressources:
     fiche de prep, juste ce que vous aviez prévu de particulier par rapport à la
     fiche de prep normale de cette activité.
   * *Remarques générales :* comment ça s'est passé en réalité. Indiquez ici si
-    vous avez dû sortir du script, pourquoi et ce que vous avez fait à la place.
+    vous avez dû sortir du déroulé prévu, pourquoi et ce que vous avez fait à la
+    place.
   * *Ce qui a bien marché :* les bonnes surprises
   * *Ce qui a moins bien marché :* les mauvaises surprises et ce qu'il faudrait
     améliorer pour la prochaine fois.
@@ -58,9 +69,9 @@ dans le fichier `src/SUMMARY.md` pour qu'elle apparaisse dans le livre.
 On peut vérifier en local que tout va bien compiler sur les robots avec la
 commande suivante : `gitlab-ci-local pages` (après avoir installé
 [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)). Cela évite les
-pull request cassées.
+*pull request* cassées.
 
-## Template d'activité
+## Décrire une activité
 
 Pour chaque activité, on voudrait retrouver les sections suivantes dans le
 `README.md`. Les activités hors du livre (hors du répertoire `src/`) ne sont pas
@@ -80,11 +91,13 @@ l'utiliser en classe pour la première fois.
 On donne une vue d'ensemble de la mise en pratique en classe, sans les détails
 de chronométrage de la séance ou d'éléments de langage à employer. Cette section
 doit contenir suffisamment d'information pour permettre à un·e animateur·ice
-d'informatique débranchée de prendre en main l'activité, mais les gens n'ayant
-pas l'habitude devront étudier avec attention les détails présentés plus loin
-dans la section Matériel. Les rapports de terrain que l'on trouve dans la
-section Discussions sont particulièrement précieux pour les débutants, en
-indiquant les points de vigilance à avoir.
+d'informatique débranchée de prendre en main l'activité. Si vous n'avez pas
+l'habitude (soit que vous êtes enseignants qui vous initiez à l'informatique ou
+soit que vous soyez informaticien·es qui vous initiez à l'enseignement), vous
+devrez étudier avec attention les détails présentés plus loin dans la section
+Matériel. Les rapports de terrain que l'on trouve dans la section Discussions
+sont particulièrement précieux pour les débutants, en indiquant les points de
+vigilance à avoir.
 
 On ajoute si possible quelques photos permettant de se faire une bonne idée du
 déroulé pratique de l'activité, mais attention à ne jamais permettre
@@ -103,7 +116,7 @@ mais qui risquerait de spoiler les participant·es avant l'activité.
 
 On explique pourquoi ça marche en s'appuyant sur quelques informations
 scientifiques pour permettre aux animateur·rices de comprendre les aspects
-*informatiques* de l'activité. Par soucis de concision, on préfère donner des
+*informatiques* de l'activité. Par souci de concision, on préfère donner des
 liens wikipedia plutôt que faire un cours complet dans cette section.
 
 On donne aussi les éventuels trucs à utiliser pendant l'animation de la séance
@@ -146,7 +159,7 @@ ajoutés, et les fichiers `bmp`, `png` ou `gif` sont à proscrire car ils sont
 trop gros sur disque, difficile à éditer et rendent souvent mal à l'impression.
 Le matériel destiné à être intégré à ce recueil doit être sous licence CC-BY-SA.
 
-## Fiche de préparation
+### Fiche de préparation
 
 C'est un document synthétique décrivant le script de l'activité, au sens
 scénaristique. On décrit les phases successives de la séance en indiquant leur
@@ -162,7 +175,7 @@ enseignant·es s'appropriant les activités préféreraient sans doute un docume
 `.odt` ou `.doc`, mais l'expérience montre que ces formats se mélangent mal à
 notre workflow basé sur `git`.
 
-## Matériel à imprimer
+### Matériel à imprimer
 
 Le plus simple est d'inclure ici un fichier `svg` facile à éditer dans Inkscape,
 et la version `pdf` prête à être imprimée. On aimerait bien utiliser une
@@ -191,7 +204,7 @@ des couleurs attirantes pour la moyenne des participant·es, mais sur des
 palettes adaptées aux daltoniens et avec des motifs permettant de différencier
 les pièces même en noir et blanc.
 
-## Trace écrite
+### Trace écrite
 
 Il s'agit d'un petit document au format A5 ou B6 à coller dans le cahier des
 élèves, ou avec lequel les participant·es repartent après une fête de la
