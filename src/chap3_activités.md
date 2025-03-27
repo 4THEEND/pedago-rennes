@@ -59,13 +59,21 @@ Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
  Évaluation: 0;
  Logique: 1.
 
-### [Blasons](Blasons/)
+### Blasons
 
-On décrit le dessin d'un blason à ses camarades, qui cherchent à dessiner le
-blason d'origine d'après les explications. C'est une bonne introduction aux
-notions informatiques liées au langage, comme l'ambiguïté d'une description.
+Le but de cette activité est de montrer aux participant·es qu’un ordinateur ne
+faisant que suivre ce qu'on lui demande de faire sans intelligence ni
+imagination, il faut donc donner des instructions précises et sans ambiguïté.
+
+En pratique, un·e participant·e doit faire dessiner une image mystère à ses
+camarades en leur donnant les bonnes instructions.
+
+Activité prête à l'emploi et vraiment rodée. Elle a souvent été
+jouée à de très nombreux niveaux, du CM1 à la licence, ainsi qu'en formation
+d'enseignants.
 
 **Concepts :** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
+
 ### ImagePixel
 (Images téléphonées)
 ### Trier les cartes
