@@ -9,9 +9,14 @@ cycle 3 (dès le CM1).
 C'est un jeu à deux joueurs où l'on dispose de 12, 16 ou 20 objets quelconques.
 On peut utiliser des allumettes comme dans la [variante de
 Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad) ou des petits
-cailloux, mais il est plus pratique d'utiliser les jetons de la série d'activité
-SMN. Ce matériel est prêt à être imprimé sur une feuille A4 autocollante, puis
-collé sur du carton plume.
+cailloux, mais il est plus pratique d'utiliser les petits jetons de la série
+d'activité SMN. Ce matériel est prêt à être imprimé sur une feuille A4
+autocollante, puis collé sur du carton plume. On n'utilise que les petits pions
+carrés dans cette activité, tandis que les grands rectangles sont utilisés dans
+l'activité du Crépier psychorigide et du Baseball multicolore.
+
+ [![Matériel à découper.](materiel-SMN-300x.png)](materiel-SMN.pdf)
+
 
 Chaque joueur à son tour prend 1, 2 ou 3 objets, et le but est de prendre le dernier
 objet sur la table. Les participants connaissent souvent la variante de
@@ -115,13 +120,13 @@ tirer au hasard est toujours pré-déterminée par le programme utilisé.
 
 
 
-## Matériel
+## Matériel supplémentaire
 
-- Fiches de prép : [v2017](nim_prep_2017_BautistaBordais.pdf)
-- Trace écrite : [pdf imprimable](nim_trace_ecrite.pdf)
-- Matériel à imprimer : le plus simple est d'utiliser les jetons de la série
-  d'activité SMN, à imprimer sur une feuille A4 autocollante à coller sur du
-  carton plume.
+Le [dépôt git](https://github.com/InfoSansOrdi/pedago-rennes/tree/trunk/src/Nim)
+contient de nombreuses fiches de préparation plus ou moins prêtes à l'emploi,
+ainsi que des traces écrites. Exemple de [fiche de
+préparation](nim_prep_2017_BautistaBordais.pdf) et de [trace
+écrite](nim_trace_ecrite.pdf).
 
 ## Références et discussion
 
@@ -150,6 +155,7 @@ décrivant :
 
 
 ### Rapports d'expériences
+ - [Troublé et Tanguy-Legac](Rapports/2024_TroubleTanguyLegac.html) (2024)
  - [Adam et Timmerman](Rapports/2023_AdamTimmerman.html) (2023)
  - [Rautureau et Hamon](Rapports/2023_RautureauHamon.html) (2023)
- - [Troublé et Tanguy-Legac](Rapports/2024_TroubleTanguyLegac.html) (2024)
+ - [Bautista, Bellec, Bordais et Voorwinden](Rapports/2017_BautistaBellecBordaisVoorwinden.html) (2017)

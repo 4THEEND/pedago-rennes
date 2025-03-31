@@ -5,7 +5,7 @@ Elle contient également les feuilles à distribuer aux élèves.
 
 Pour cette activité, les élèves travaillent en groupe de deux ou trois avec l'un dans le rôle de l'instructeur (le "programmeur") et les autres en robots. L'instructeur dispose d'images, qu'il doit garder cacher des robots. Son but est de donner les instructions pour que les robots dessinent les les images sur les supports vierges à leur disposition.
 
-## Retour d'experience
+## Retour d'expérience
 Cette activité a été réalisée très différemment selon les groupes d'élèves.
 Certains peuvent aller très vite, alors que d'autres ne comprenent pas ce qui est demandé, ni l'intérêt de l'activité.
 Les élèves ont du mal à se mettre en mode "robot" et à écouter simplement les instructions. Dans beaucoup de cas, ils esssaient de deviner l'image avant la fin, ce qui altère leur interprétation des instructions. Cette observation est la raison de la création de nouveaux supports. [Ces supports sont devenus l'activité des blasons actuelle -- note de MQuinson].
