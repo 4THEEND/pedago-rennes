@@ -32,7 +32,7 @@ une très bonne introduction à la notion d'algorithme.
 
 [Activité prête à l'emploi](Nim/), souvent jouée en CM1/CM2 par exemple.
 
-**Concepts.** Algorithme: 2; Langage: 0; Information: 0; Machine: 0
+**Concepts.** Algorithme: 2; Langage: 0; Information: 0; Machine: 0.
 
 **Compétences.** Pensée algorithmique: 2; Abstraction: 1; Décomposition: 2; Généralisation et motifs 1; Evaluation: 0; Logique: 1
 
@@ -47,9 +47,9 @@ Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
 
 **Concepts.**
  Algorithmes: 2;
- Langages: 0
- Information(.)
- Machine(.)
+ Langages: 0;
+ Information: 0;
+ Machine: 0.
 
 **Compétences.**
  Pensée algorithmique: 2;
@@ -59,7 +59,7 @@ Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
  Évaluation: 0;
  Logique: 1.
 
-### Blasons
+### [Blasons](Blasons/)
 
 Le but de cette activité est de montrer aux participant·es qu’un ordinateur ne
 faisant que suivre ce qu'on lui demande de faire sans intelligence ni
@@ -73,6 +73,8 @@ jouée à de très nombreux niveaux, du CM1 à la licence, ainsi qu'en formation
 d'enseignants.
 
 **Concepts :** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
+
+**Compétences :** TODO
 
 ### ImagePixel
 (Images téléphonées)
