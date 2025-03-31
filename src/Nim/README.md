@@ -1,19 +1,17 @@
 # Jeu de Nim
 
-
-
-## Principe
 Cette activité permet d'introduire la notion d'**algorithme** en la reliant à la
 stratégie d'un jeu à deux joueurs. Elle a été testée très souvent à partir du
 cycle 3 (dès le CM1).
 
 ## Déroulé
 
-C'est un jeu à deux joueurs où l'on dispose de 12 ou 16 objets quelconques. On
-peut utiliser des allumettes comme dans la [variante de
-Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad), mais il est plus
-pratique d'utiliser les jetons de la série d'activité SMN. Ce matériel est prêt
-à être imprimé sur une feuille A4 autocollante, puis collé sur du carton plume.
+C'est un jeu à deux joueurs où l'on dispose de 12, 16 ou 20 objets quelconques.
+On peut utiliser des allumettes comme dans la [variante de
+Marienbad](https://fr.wikipedia.org/wiki/Jeu_de_Marienbad) ou des petits
+cailloux, mais il est plus pratique d'utiliser les jetons de la série d'activité
+SMN. Ce matériel est prêt à être imprimé sur une feuille A4 autocollante, puis
+collé sur du carton plume.
 
 Chaque joueur à son tour prend 1, 2 ou 3 objets, et le but est de prendre le dernier
 objet sur la table. Les participants connaissent souvent la variante de
@@ -24,19 +22,19 @@ L'intérêt de l'activité est l'existence d'une stratégie gagnante, que les
 participants vont devoir découvrir en jouant ensemble, avant de la co-construire
 pendant la remise en commun.
 
-## Coin des animateur·ices
+## Aspects pédagogiques
 
 L'objectif de cette activité est simplement d'introduire la notion d'algorithme
 comme stratégie gagnante pour un problème donné.
 
 * Après avoir donné la consigne, laissez jouer les participants.
-* Passez dans les groupes et jouez contre des participants. Quand
-  ils s'étonnent de vous voir jouer, avouez qu'il y a un truc, et que
+* Passez dans les groupes et jouez contre des participants. Quand ils s'étonnent
+  de vous voir gagner à tous les coups, avouez qu'il y a un truc, et que
   l'objectif de la séance est de le découvrir.
-* Si votre adversaire insiste pour vous laissez commencer, jouez
-  au hasard, et rattrapez la stratégie gagnante à la première erreur.
-* Si un participant connaît déjà la stratégie gagnante du jeu, il pourra
-  vous remplacer pour jouer avec les autres participants.
+* Si votre adversaire insiste pour vous laissez commencer, jouez au hasard, et
+  rattrapez la stratégie gagnante à la première erreur.
+* Si un participant connaît déjà la stratégie gagnante du jeu, il pourra vous
+  aider en jouant avec les autres participants sans leur spoiler l'algorithme.
 
 
 Certains joueurs prennent le jeu trop à coeur. Il faut insister sur
@@ -45,9 +43,8 @@ de perdre à coup sûr.
 
 #### Un algorithme pour gagner
 
-Le jeu de Nim est intéressant car il est sans suspense: il existe une
-**stratégie gagnante*** pour permettre au second joueur de gagner à coup sûr: il
-doit laisser 4, 8, 12 ou 16 pions (un multiple de 4).
+Il existe donc une **stratégie gagnante*** pour permettre au second joueur de gagner
+à coup sûr: il doit laisser 4, 8, 12 ou 16 pions (un multiple de 4).
 
 Pour se convaincre de l'efficacité de cette stratégie, observons par
 exemple le dernier tour. Il reste 4 pions, et c'est à Bob de jouer.

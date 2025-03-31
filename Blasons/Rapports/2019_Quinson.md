@@ -1,4 +1,5 @@
-* 26 juin 2019
+# 26 juin 2019
+
 - Public: 40 profs de collège/lycée en maths/SI, quelques profs du supérieur
 - Animateur Martin
 - Durée: 45mn

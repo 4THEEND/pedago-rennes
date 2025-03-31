@@ -75,10 +75,11 @@ commande suivante : `gitlab-ci-local pages` (après avoir installé
 
 Pour chaque activité, on voudrait retrouver les sections suivantes dans le
 `README.md`. Les activités hors du livre (hors du répertoire `src/`) ne sont pas
-encore rangées. Leur description a souvent été écrite avant même ces consignes
-éditoriales, qu'elle ne suit donc pas.
+encore rangées. Elles ont souvent été inventées et décrites avant même que ces
+consignes ne soit écrites. J'espère réussir un jour à tout présenter de façon
+cohérente.
 
-## Principe
+### Principe
 
 Cette section présente en quelques mots l'activité, les notions abordées et le
 public visé. Ce paragraphe regroupe donc les informations générales nécessaires
@@ -86,7 +87,7 @@ aux enseignant·es à la recherche d'une activité adaptée à leur classe. On n
 aussi si cette activité est bien rodée ou s'il reste du travail à faire avant de
 l'utiliser en classe pour la première fois.
 
-## Déroulé
+### Déroulé
 
 On donne une vue d'ensemble de la mise en pratique en classe, sans les détails
 de chronométrage de la séance ou d'éléments de langage à employer. Cette section
@@ -109,7 +110,7 @@ qu'elles sont devenues des activités à part entière, elles sont données ici 
 permettre aux lecteur·ices de trouver l'activité qui leur convient en se
 promenant dans les liens.
 
-## Trucs d'animation
+### Aspects pédagogiques
 
 Cette section contient tout ce dont l'animateur·ice a besoin pour bien animer,
 mais qui risquerait de spoiler les participant·es avant l'activité.
@@ -120,32 +121,34 @@ scientifiques pour permettre aux animateur·rices de comprendre les aspects
 liens wikipedia plutôt que faire un cours complet dans cette section.
 
 On donne aussi les éventuels trucs à utiliser pendant l'animation de la séance
-pour relancer en cas de besoin. On donne par exemple les éventuels **étayages de
-l'activité**, c'est-à-dire les simplifications, indices et relances spécifiques
-qu'on peut utiliser pour aider un groupe qui patine un peu et avance moins vite
-que les autres. On donnera aussi les éventuelles **extensions de l'activité**,
-c'est à dire les défis supplémentaires que l'on peut poser aux groupes qui
-avancent plus vite pour les occuper et les nourrir le temps que le reste du
-groupe classe termine l'activité. Faire ces extensions ne doit pas être
-indispensable à la bonne réalisation de l'activité.
+pour relancer en cas de besoin, et pour **différencier** l'activité afin de
+l'adapter à chaque groupe de participant·es. On donne par exemple les éventuels
+**étayages de l'activité**, c'est-à-dire les simplifications, indices et
+relances spécifiques qu'on peut utiliser pour aider un groupe qui patine un peu
+et avance moins vite que les autres. On donnera aussi les éventuelles
+**extensions de l'activité**, c'est à dire les défis supplémentaires que l'on
+peut poser aux groupes qui avancent plus vite pour les occuper et les nourrir le
+temps que le reste du groupe classe termine l'activité. Faire ces extensions ne
+doit pas être indispensable à la bonne réalisation de l'activité.
 
-## C'est de l'informatique !
+### C'est de l'informatique !
 
 Cette section cadre la dernière remise en commun de l'activité, celle où
-l'animateur·ice explique le lien entre l'activité jouée et l'informatique. Si
-cette section peut contenir un texte bien rédigé pour justifier de ce lien, le
-public ciblé doit rester les animateur·rices et non les participant·es: la
-remise en commun est plus vivante quand les animateur·rices utilisent leurs
-propres mots en les adaptant à leur public du jour.
+l'animateur·ice explique le lien entre l'activité jouée et l'informatique. C'est
+donc le moment "didactique" de l'activité. Si cette section peut contenir un
+texte bien rédigé pour justifier de ce lien, le public ciblé doit rester les
+animateur·rices et non les participant·es: la remise en commun est plus vivante
+quand les animateur·rices utilisent leurs propres mots en les adaptant à leur
+public du jour.
 
 Ce petit texte commence souvent par "c'est de l'informatique parce que ...", ce
 qui explique le surnom de cette section, tandis que le terme adéquat dans le
-jargon pédagogique est "institutionalisation".
+jargon de l'enseignement est "institutionalisation".
 
 Si l'activité est catégorisée dans les référentiels d'activités, c'est dans
 cette section que c'est expliqué et justifié.
 
-## Matériel
+### Matériel
 
 On regroupe ici les choses à imprimer et découper avant la séance ou à lire avec
 attention pour préparer. On retrouve trois grandes catégories, décrites
@@ -159,7 +162,7 @@ ajoutés, et les fichiers `bmp`, `png` ou `gif` sont à proscrire car ils sont
 trop gros sur disque, difficile à éditer et rendent souvent mal à l'impression.
 Le matériel destiné à être intégré à ce recueil doit être sous licence CC-BY-SA.
 
-### Fiche de préparation
+#### Fiche de préparation
 
 C'est un document synthétique décrivant le script de l'activité, au sens
 scénaristique. On décrit les phases successives de la séance en indiquant leur
@@ -175,7 +178,7 @@ enseignant·es s'appropriant les activités préféreraient sans doute un docume
 `.odt` ou `.doc`, mais l'expérience montre que ces formats se mélangent mal à
 notre workflow basé sur `git`.
 
-### Matériel à imprimer
+#### Matériel à imprimer
 
 Le plus simple est d'inclure ici un fichier `svg` facile à éditer dans Inkscape,
 et la version `pdf` prête à être imprimée. On aimerait bien utiliser une
@@ -204,7 +207,7 @@ des couleurs attirantes pour la moyenne des participant·es, mais sur des
 palettes adaptées aux daltoniens et avec des motifs permettant de différencier
 les pièces même en noir et blanc.
 
-### Trace écrite
+#### Trace écrite
 
 Il s'agit d'un petit document au format A5 ou B6 à coller dans le cahier des
 élèves, ou avec lequel les participant·es repartent après une fête de la
@@ -218,7 +221,7 @@ l'activité à leur entourage dans les jours qui viennent. C'est un objectif tr�
 difficile à atteindre, et peu d'activités présentées ont ce genre de ressource
 pour l'instant.
 
-## Fiche scientifique
+#### Fiche scientifique
 
 C'est un document détaillant toutes les informations scientifiques en lien avec
 l'activité, pour permettre à l'animateur·ice de devenir incollable sur le sujet.
