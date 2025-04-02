@@ -4,6 +4,10 @@ Cette activité permet d'introduire la notion d'**algorithme** en la reliant à 
 stratégie d'un jeu à deux joueurs. Elle a été testée très souvent à partir du
 cycle 3 (dès le CM1).
 
+- **Concepts.** Algorithme: 2; Langage: 0; Information: 0; Machine: 0.
+- **Compétences.** Pensée algorithmique: 2; Abstraction: 1; Décomposition: 2; Généralisation et motifs 1; Evaluation: 0; Logique: 1
+- **Compétences non-informatiques.** développer un vocabulaire précis
+
 ## Déroulé
 
 C'est un jeu à deux joueurs où l'on dispose de 12, 16 ou 20 objets quelconques.
@@ -17,7 +21,6 @@ l'activité du Crépier psychorigide et du Baseball multicolore.
 
  [![Matériel à découper.](materiel-SMN-300x.png)](materiel-SMN.pdf)
 
-
 Chaque joueur à son tour prend 1, 2 ou 3 objets, et le but est de prendre le dernier
 objet sur la table. Les participants connaissent souvent la variante de
 l'émission de télévision *Fort Boyard*, où l'objectif est de **ne pas** prendre
@@ -27,20 +30,17 @@ L'intérêt de l'activité est l'existence d'une stratégie gagnante, que les
 participants vont devoir découvrir en jouant ensemble, avant de la co-construire
 pendant la remise en commun.
 
+Après avoir donné la consigne, laissez jouer les participants. Passez dans les
+groupes et jouez contre des participants. Quand ils s'étonnent de vous voir
+gagner à tous les coups, avouez qu'il y a un truc, et que l'objectif de la
+séance est de le découvrir.
+
+Si votre adversaire insiste pour vous laissez commencer, jouez au hasard, et
+rattrapez la stratégie gagnante à la première erreur. Si un participant connaît
+déjà la stratégie gagnante du jeu, il pourra vous aider en jouant avec les
+autres participants sans leur spoiler l'algorithme.
+
 ## Aspects pédagogiques
-
-L'objectif de cette activité est simplement d'introduire la notion d'algorithme
-comme stratégie gagnante pour un problème donné.
-
-* Après avoir donné la consigne, laissez jouer les participants.
-* Passez dans les groupes et jouez contre des participants. Quand ils s'étonnent
-  de vous voir gagner à tous les coups, avouez qu'il y a un truc, et que
-  l'objectif de la séance est de le découvrir.
-* Si votre adversaire insiste pour vous laissez commencer, jouez au hasard, et
-  rattrapez la stratégie gagnante à la première erreur.
-* Si un participant connaît déjà la stratégie gagnante du jeu, il pourra vous
-  aider en jouant avec les autres participants sans leur spoiler l'algorithme.
-
 
 Certains joueurs prennent le jeu trop à coeur. Il faut insister sur
 l'importance de trouver la stratégie pour leur éviter la frustration
@@ -48,29 +48,32 @@ de perdre à coup sûr.
 
 #### Un algorithme pour gagner
 
-Il existe donc une **stratégie gagnante*** pour permettre au second joueur de gagner
-à coup sûr: il doit laisser 4, 8, 12 ou 16 pions (un multiple de 4).
+Il existe donc une **stratégie gagnante** pour permettre au second joueur de gagner
+à coup sûr : il doit laisser 4, 8, 12 ou 16 pions (un multiple de 4) à la fin de son tour.
 
-Pour se convaincre de l'efficacité de cette stratégie, observons par
-exemple le dernier tour. Il reste 4 pions, et c'est à Bob de jouer.
+Pour se convaincre de l'efficacité de cette stratégie, observons par exemple le
+dernier tour. Il reste 4 pions, et c'est à Bob de jouer. Quoi que fasse Bob,
+Alice peut gagner dans tous les cas.
 
 ![Stratégie gagnante au dernier tour](img/nim_dernier_tour.svg)
 
 Donc Alice *peut* gagner à coup sûr quand il reste 4 pions au tour de Bob. De la
 même manière, s'il reste 8 pions à Bob, Alice peut le forcer à jouer avec 4
-pions. En jouant ainsi dès le début, elle peut gagner à coup sûr.
+pions au tour suivant. En jouant ainsi dès le début, elle peut gagner à coup sûr.
 
 ![Vue d'ensemble de la stratégie gagnante](img/nim_stratégie.svg)
 
-#### Étayages
+#### Différenciations
 
-On aide les groupes en difficulté en jouant avec eux, de préférence en deuxième
-pour pouvoir appliquer la stratégie qu'ils doivent découvrir. Si le groupe ne
-trouve vraiment pas (ce qui est rare), on peut disposer les jetons sur la table
-par groupe de quatre (par exemple par couleur) et prendre systématiquement les
-derniers jetons de chaque paquet entamé.
+Le seul **étayage** connu consiste à jouer avec les groupes en difficulté, de
+préférence en deuxième pour pouvoir appliquer la stratégie qu'ils doivent
+découvrir mais avec un maximum de bienveillance pour limiter leur frustration de
+perdre à coup sûr. Si le groupe ne trouve vraiment pas (ce qui est rare), on
+peut disposer les jetons sur la table par groupe de quatre (par exemple par
+couleur) et prendre systématiquement les derniers jetons de chaque paquet
+entamé.
 
-#### Extensions
+De **nombreuses extensions** sont possibles :
 
 * On fait varier le nombre de jetons sur la table : "s'il y a maintenant 15
   jetons sur la table, tu commences ou je commence?" (réponse: la stratégie est
