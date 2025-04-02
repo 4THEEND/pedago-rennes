@@ -1,8 +1,8 @@
 # Jeu des blasons
 
-Le but de cette activité est de montrer aux participant·es qu’un ordinateur ne
-faisant que suivre ce qu'on lui demande de faire sans intelligence ni
-imagination, il faut donc donner des instructions précises et sans ambiguïté.
+Le but de cette activité est d'insister sur l'importance d'un vocabulaire précis
+et sans ambiguïté. C'est particulièrement important avec un ordinateur qui ne
+fait que suivre ce qu'on lui demande de faire sans intelligence ni imagination.
 
 En pratique, un·e participant·e doit faire dessiner une image mystère à ses
 camarades en leur donnant les bonnes instructions.
@@ -19,7 +19,7 @@ couper en 4 pour les quatre phases de l'activité, ainsi que d'une feuille de
 réponses à couper en 9 pour en donner à chaque participant·es.
 
  [![Fiche modèles à découper.](blasons-modeles-100x.png)](blasons-modeles.pdf)
- [![Fiches réponses à découper.](blasons-reponses-100x.png)](blasons-reponses.pdf)
+ [![Fiche réponses à découper.](blasons-reponses-100x.png)](blasons-reponses.pdf)
 
 On constitue des groupes de 3 à 6 participant·es, on donne des petites feuilles
 de réponse à tout le monde, et le quart A de la fiche de modèle à une personne
@@ -28,21 +28,22 @@ la feuille aux autres participant·es, sans regarder ce qu'ils font. À la fin, 
 compare les résultats à la figure de départ, et une autre participant·e fait
 deviner une autre figure.
 
-Après que chaque groupe ait eu le temps de dessiner un blason ou deux, on fait
+Après que chaque groupe a eu le temps de dessiner un blason ou deux, on fait
 une rapide remise en commun. C'est souvent l'occasion pour les participant·es
-d'exprimer leurs problèmes de communication: "les autres ont rien compris à mes
-explications!" contre "oui mais tu expliques mal."
+d'exprimer leurs problèmes de communication : "les autres n'ont rien compris à mes
+explications!" contre "oui, mais tu expliques mal."
 
-On insiste alors sur l'important d'avoir un vocabulaire commun, et on distribue
-alors le second quart de la feuille de modèle, intitulé "Mettons-nous d'accord
-sur le vocabulaire". On relance ensuite le travail en groupes.
+On insiste alors sur l'important d'avoir un vocabulaire commun, et l'on
+distribue alors le second quart de la feuille de modèle, intitulé "Mettons-nous
+d'accord sur le vocabulaire". On relance ensuite le travail en groupes jusqu'au
+moment de l'institutionalisation.
 
 ## Aspects pédagogiques
 
 Cette activité ne pose pas de défi pédagogique majeur : pas de tour passe-passe
 ni de prestidigitation à réaliser pour que cela marche. Cette activité va plus
-vite avec un public de mathématicien·nes, car ces gens savent s'exprimer de
-façon non-ambiguë. L'activité reste intéressante, mais il faut aller plus vite.
+vite avec un public de mathématicien·nes, car ces gens savent s'exprimer sans
+ambiguïté. L'activité reste intéressante, mais il faut aller plus vite.
 
 ### Différentiation
 
