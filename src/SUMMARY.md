@@ -6,6 +6,6 @@
 - [Préparer une activité](chap2_preparation.md)
 - [Les activités](chap3_activités.md)
   - [Blasons](Blasons/README.md)
-  - [Carrés magiques](CarresMagiques/README.md)
   - [Jeu de Nim](Nim/README.md)
+  - [Tour de magie carrée](TourMagieCarree/README.md)
   - [Contribuer aux activités](Template_activité.md)

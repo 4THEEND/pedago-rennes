@@ -616,29 +616,6 @@ Public cible: CM1/CM2.
 * [Pixees](https://pixees.fr/tablette-de-chocolat-empoisonnee)
 
 ---
-## Tour de magie/carrés magiques/Merlin et le donjon
-Variante avec un chapeau de magicien: Merlin et le donjon. Merlin rénove le donjon du château du roi Arthur et cache un trésor sous le plancher.
-Mots-clefs:
-* __Code correcteur__
-### Concepts
-* Algorithmes(\*)
-* Langages(.)
-* Information(\*\*)
-* Machine(.)
-### Compétences
-* Pensée algorithmique(\*)
-* Abstraction(.)
-* Décomposition(.)
-* Généralisation et motifs(\*\*)
-* Évaluation(.)
-* Logique(\*)
-### Maturité, public cible
-Activité prête à l'emploi.
-Tout public.
-### Ressources
-* [Dossier TourDeMagie](https://github.com/InfoSansOrdi/pedago-rennes/tree/master/TourDeMagie)
-
----
 ## Traversée de rivière
 ### Concepts
 * Algorithmes(\*\*)
