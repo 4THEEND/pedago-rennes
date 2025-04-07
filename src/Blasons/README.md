@@ -22,7 +22,7 @@ réponses à couper en 9 pour en donner à chaque participant·es.
  [![Fiche réponses à découper.](blasons-reponses-100x.png)](blasons-reponses.pdf)
 
 On constitue des groupes de 3 à 6 participant·es, on donne des petites feuilles
-de réponse à tout le monde, et le quart A de la fiche de modèle à une personne
+de réponse à tout le monde, et le quart A de la fiche de modèles à une personne
 dans chaque groupe. Cette personne est en charge de décrire l'un des blasons de
 la feuille aux autres participant·es, sans regarder ce qu'ils font. À la fin, on
 compare les résultats à la figure de départ, et une autre participant·e fait
