@@ -23,4 +23,8 @@ clean:
 	rsvg-convert -f png --background-color=white --width=100 --keep-aspect-ratio -o $@ $<
 
 sommaire:
-	for f in `ls Rapports/*md |sort -r` ; do base=`basename $f .md|sed 's/[0-9]*_//'|sed 's/_/ et /'`; year=`echo $f|sed 's/_.*$//'|sed 's|[^/]*/||'`; echo "- [$base](Rapports/`basename $f .md`.html)  ($year)"; done
+	for f in $$(ls Rapports/*md |sort -r) ; do \
+	  base=$$(basename $$f .md|sed 's/[0-9]*_//'|sed 's/_/ et /g');\
+	  year=$$(echo $$f|sed 's/_.*$$//'|sed 's|[^/]*/||'); \
+	  echo "- [$$base](Rapports/$$(basename $$f .md).html)  ($$year)"; \
+	done

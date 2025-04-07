@@ -76,7 +76,7 @@ d'enseignants.
 
 **Compétences :** TODO
 
-### [Tour de magie carrée](TourMagieCarree/)
+### [Tour de magie carrée](TourMagieCarree/**
 
 Cette activité se présente comme un tour de magie où l'animateur·ice fait de la
 prestidigitation pour deviner une action secrète des participant·es. Le truc
@@ -87,12 +87,11 @@ détectent les erreurs de recopies quand ils communiquent sur le réseau.
 C'est une activité extrêmement bien rodée, testée de la fin du CP à la formation
 continue d'enseignants, en passant par le primaire et le lycée.
 
-Mots-clefs :
-* __Code correcteur__
+**Mots-clefs** : Code correcteur.
 
-Concepts. Algorithmes : 1; Langages : 0; Information : 2; Machine : 0.
+**Concepts.** Algorithmes : 1; Langages : 0; Information : 2; Machine : 0.
 
-Compétences. Pensée algorithmique : 1; Abstraction : 0; Décomposition : 0;
+**Compétences.** Pensée algorithmique : 1; Abstraction : 0; Décomposition : 0;
  Généralisation et motifs : 2; Évaluation : 0; Logique : 1;
 
 

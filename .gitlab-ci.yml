@@ -1,9 +1,9 @@
 pages:
   image: mquinson/infosansordi
   script:
-  - apk add --no-cache mdbook pipx py3-markdown texlive texmf-dist-langfrench texmf-dist-latexextra make
-  - apk add --no-cache font-terminus font-inconsolata font-dejavu font-noto font-awesome font-noto-extra
-  - pipx install --global linkchecker
+#  - apk add --no-cache mdbook pipx py3-markdown texlive texmf-dist-langfrench texmf-dist-latexextra make
+#  - apk add --no-cache font-terminus font-inconsolata font-dejavu font-noto font-awesome font-noto-extra
+#  - pipx install --global linkchecker
   - for dir in Blasons Nim TourMagieCarree ; do make -C src/${dir} clean all ; done
   - mdbook build
   - mkdir public ; mv book/* public

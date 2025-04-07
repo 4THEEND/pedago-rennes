@@ -1,14 +1,5 @@
-Sur la branche trunk
-Votre branche est en avance sur 'origin/trunk' de 4 commits.
-  (utilisez "git push" pour publier vos commits locaux)
-
-Fichiers non suivis:
-  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
-	.gitignore
-	blasons-modeles-100x.png
-	blasons-modeles.pdf
-	blasons-reponses-100x.png
-	blasons-reponses-300x.png
-	blasons-reponses.pdf
-
-aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+blasons-modeles-100x.png
+blasons-modeles.pdf
+blasons-reponses-100x.png
+blasons-reponses-300x.png
+blasons-reponses.pdf
