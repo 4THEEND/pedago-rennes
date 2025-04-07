@@ -6,7 +6,7 @@ pages:
   - pipx install --global linkchecker
   - rsvg-convert --version
   - export FC_DEBUG=1
-  - for dir in Blasons Nim ; do make -C src/${dir} clean all ; done
+  - for dir in Blasons CarresMagiques Nim ; do make -C src/${dir} clean all ; done
   - mdbook build
   - mkdir public; mv book/* public
   - linkchecker public
