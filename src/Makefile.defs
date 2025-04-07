@@ -5,7 +5,7 @@
 all: ${TARGETS}
 
 clean: 
-	rm -f *.aux *.log *.html *.pdf *~  ${TARGETS}
+	rm -f *.aux *.log *.html *~ ${TARGETS}
 
 %.pdf: %.tex
 	pdflatex $< -o $@

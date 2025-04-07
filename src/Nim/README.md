@@ -61,7 +61,7 @@ Donc Alice *peut* gagner à coup sûr quand il reste 4 pions au tour de Bob. De 
 même manière, s'il reste 8 pions à Bob, Alice peut le forcer à jouer avec 4
 pions au tour suivant. En jouant ainsi dès le début, elle peut gagner à coup sûr.
 
-![Vue d'ensemble de la stratégie gagnante](img/nim_stratégie.svg)
+![Vue d'ensemble de la stratégie gagnante](img/nim_strategie.svg)
 
 #### Différenciations
 
