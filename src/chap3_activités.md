@@ -72,11 +72,11 @@ Activité prête à l'emploi et vraiment rodée. Elle a souvent été
 jouée à de très nombreux niveaux, du CM1 à la licence, ainsi qu'en formation
 d'enseignants.
 
-**Concepts :** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
+**Concepts.** Algorithme: 0; Langage: 2; Information: 1; Machine: 0
 
-**Compétences :** TODO
+**Compétences.** TODO
 
-### [Tour de magie carrée](TourMagieCarree/**
+### [Tour de magie carrée](TourMagieCarree/)
 
 Cette activité se présente comme un tour de magie où l'animateur·ice fait de la
 prestidigitation pour deviner une action secrète des participant·es. Le truc
