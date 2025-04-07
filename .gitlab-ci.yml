@@ -5,7 +5,6 @@ pages:
   - apk add --no-cache font-terminus font-inconsolata font-dejavu font-noto font-awesome font-noto-extra
   - pipx install --global linkchecker
   - rsvg-convert --version
-  - export FC_DEBUG=1
   - for dir in Blasons CarresMagiques Nim ; do make -C src/${dir} clean all ; done
   - mdbook build
   - mkdir public; mv book/* public
