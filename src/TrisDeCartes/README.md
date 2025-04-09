@@ -152,7 +152,9 @@ grosse entreprise informatique au monde. Cette entreprise commercialise bientôt
 perforées](https://fr.wikipedia.org/wiki/Trieuse) et de [faire des
 statistiques](https://fr.wikipedia.org/wiki/Tabulatrice) sur les informations
 contenues. Ces opérations étaient également l'occupation principale des premiers
-ordinateurs commerciaux dans les années 1960.
+ordinateurs commerciaux dans les années 1960. Le premier programme informatique
+de tri a été écrit par [Betty Holberton](https://fr.wikipedia.org/wiki/Betty_Holberton)
+à la fin des années 1940.
 
 ![Trieuse IBM 1419](IBM_1419_magnetic_character_reader_and_sorter.jpg)
 
