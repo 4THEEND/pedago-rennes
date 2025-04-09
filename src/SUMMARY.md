@@ -8,4 +8,5 @@
   - [Blasons](Blasons/README.md)
   - [Jeu de Nim](Nim/README.md)
   - [Tour de magie carrée](TourMagieCarree/README.md)
+  - [Tris de cartes](TrisDeCartes/README.md)
   - [Contribuer aux activités](Template_activité.md)

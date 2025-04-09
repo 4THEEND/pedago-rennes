@@ -229,7 +229,7 @@ Il est sans doute préférable de pointer sur les bonnes pages wikipedia, mais
 quand elles n'existent pas, rédiger une fiche scientifique représente moins de
 travail que de rédiger une bonne page wikipedia.
 
-# Références et discussion
+### Références et discussion
 
 Cette section donne un bref historique de l'activité, en créditant les auteurs
 nom quand ils sont connus. On donnera aussi des liens vers les autres pages

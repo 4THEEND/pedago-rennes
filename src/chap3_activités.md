@@ -91,13 +91,35 @@ continue d'enseignants, en passant par le primaire et le lycée.
 
 **Concepts.** Algorithmes : 1; Langages : 0; Information : 2; Machine : 0.
 
-**Compétences.** Pensée algorithmique : 1; Abstraction : 0; Décomposition : 0;
+**Compétences.** 
+ Pensée algorithmique : 1; Abstraction : 0; Décomposition : 0;
  Généralisation et motifs : 2; Évaluation : 0; Logique : 1;
+
+### [Tris de cartes](TrisDeCartes/)
+
+Découvrir la puissance d’un algorithme de tri classique, en triant des
+cartes face cachée par binôme.
+
+C'est une activité rodée et bien testée à partir du CM1, mais pas toujours très
+fun à jouer.
+
+**Concepts.**
+ Algorithmes : 2;
+ Langages : 0;
+ Information : 0;
+ Machine : 0.
+
+**Compétences.**
+ Pensée algorithmique : 2;
+ Abstraction : 0;
+ Décomposition : 1;
+ Généralisation et motifs : 0;
+ Évaluation : 0;
+ Logique : 1.
 
 
 ### ImagePixel
 (Images téléphonées)
-### Trier les cartes
 ### Caméléons
 ### Chateau magique
 ### Chateau pas très fort

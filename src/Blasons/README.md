@@ -270,7 +270,7 @@ fiche initiale peut être vue comme une extension des blasons, même si la versi
 actuelle a été testée avec succès au lycée et avec des publics adultes (en
 médiation ou en formation continue d'enseignants).
 
-# Références et discussion
+## Références et discussion
 
 Cette activité a été inventée par Solène Mirliaz et Josuha Peignier quand ils
 étaient en L3 à Rennes en 2018. Elle a été utilisée en classe presque chaque

@@ -10,7 +10,7 @@ C'est une activité extrêmement bien rodée, testée de la fin du CP à la form
 continue d'enseignants, en passant par le primaire et le lycée.
 
 
-### Déroulé
+## Déroulé
 
 L'activité se joue avec 36 cartes plastifiées toutes identiques, mais avec les
 deux faces de deux couleurs différentes, ainsi qu'un petit "trésor" que l'on
@@ -59,7 +59,7 @@ est celle de l'humain qui écrit le programme. Celle bien plus facile de
 suivre le programme est le rôle de l'ordinateur. Il est très rapide, très
 précis, mais il ne fait rien de particulièrement intelligent. Il obéit.
 
-### Aspects pédagogiques
+## Aspects pédagogiques
 
 La difficulté de cette activité est bien un problème d'animation. Le truc est
 assez simple, mais il s'agit d'accompagner les participant·es pour leur permettre
@@ -85,7 +85,7 @@ d'animateur·ices, on peut aussi sauter l'étape où le magicien mémorise les
 cartes au bout d'un moment, et lui demander de trouver directement la carte
 inversée sur un plateau qu'il n'a jamais vu avant.
 
-#### Différentiation
+### Différentiation
 
 Guider les participant·es vers la solution n'est pas facile, mais on peut
 essayer en insistant sur le mot *"compter"*. On utilise pour cela des phrases
@@ -115,7 +115,7 @@ parlent plus facilement de "nombres doubles" que de "nombres pairs", mais la
 solution fini par émerger malgré tout.
 
 
-#### Spoiler alert! Comment ça marche
+### Spoiler alert! Comment ça marche
 
 Le truc réside dans les 11 cartes ajoutées par l'assistant·e une fois que les
 participant·es ont constitué leur motif. Il ne s'agit pas du tout d'augmenter la
@@ -132,7 +132,7 @@ changer le reste. Le magicien n'a plus qu'à retrouver cette ligne et colonne o�
 il y a un nombre impair de cartes vertes et rouges pour trouver la case
 inversée à l'intersection.
 
-### C'est de l'informatique !
+## C'est de l'informatique !
 
 C'est de l'informatique, parce que cela permet de découvrir ce que l'on appelle un
 **code correcteur**. Cette technique est utilisée en informatique pour protéger
@@ -229,7 +229,7 @@ tomber sur un code qui n’existe pas. Encore mieux : si un seul des chiffres es
 changé, il est tout bonnement impossible de tomber sur un code valide et l'on
 est sûr de détecter que le code a été mal lu...
 
-### Matériel supplémentaire
+## Matériel supplémentaire
 
 À ce jour, personne n'a fait de matériel à imprimer pour cette activité, car il
 suffit d'avoir du papier biface, ou bien de coller entre elles deux feuilles de
