@@ -270,19 +270,13 @@ fiche initiale peut être vue comme une extension des blasons, même si la versi
 actuelle a été testée avec succès au lycée et avec des publics adultes (en
 médiation ou en formation continue d'enseignants).
 
-## Références et discussion
+### Discussion pédagogique
 
 Cette activité a été inventée par Solène Mirliaz et Josuha Peignier quand ils
 étaient en L3 à Rennes en 2018. Elle a été utilisée en classe presque chaque
-année depuis. Voici les retours d'expérience (par ordre inversement chronologique) :
+année depuis.
 
-- [Malo et Nathan](Rapports/2024_Malo_Nathan.html)  (2024)
-- [Clara et Alan](Rapports/2024_Clara_Alan.html)  (2024)
-- [Misyats et Regaud](Rapports/2023_Misyats_Regaud.html)  (2023)
-- [Nunn et Thomas](Rapports/2022_Nunn_Thomas.html)  (2022)
-- [Leothaud et Demoussel](Rapports/2020_Leothaud_Demoussel.html)  (2020)
-- [Quinson](Rapports/2019_Quinson.html)  (2019)
-- [Mavromatis et Thuillier](Rapports/2019_Mavromatis_Thuillier.html)  (2019)
-- [Anonyme](Rapports/2019_Anonyme.html)  (2019)
-- [Mirliaz et Peignier](Rapports/2018_Mirliaz_Peignier.html)  (2018)
-- [Gorius et Legrand](Rapports/2018_Gorius_Legrand.html)  (2018)
+### Rapports d'expériences
+
+{{#include rapports.md}}
+

@@ -192,8 +192,4 @@ sujet.
 
 ### Rapports d'expériences
 
-- [Grehaigne](Rapports/2023_Grehaigne.html)  (2023)
-- [Dumont](Rapports/2023_Dumont.html)  (2023)
-- [Correnson et Erlich](Rapports/2021_Correnson_Erlich.html)  (2021)
-- [Drewery et Garito](Rapports/2019_Drewery_Garito.html)  (2019)
-
+{{#include rapports.md}}
