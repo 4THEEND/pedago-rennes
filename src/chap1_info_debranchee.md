@@ -59,8 +59,9 @@ prérequis. Geeker à la maison avec papa ne donne pas d’avantage en classe, e
 tous les élèves sont à égalité devant l'activité. Comme cela permet d’aborder de
 vrais concepts complexes de l’informatique, c’est un bon outil pour réintégrer
 les personnes habituellement exclus de la technologie. On peut même intégrer
-d'éventuels enfants ne maîtrisant pas bien le français ou des enfants
-"dys-férents", puisqu'il s'agit surtout de *manipuler et réfléchir*.
+d'éventuels enfants ne maîtrisant pas bien le français ou des [élèves à besoins
+éducatifs particuliers](https://fr.wikipedia.org/wiki/Inclusion_scolaire),
+puisqu'il s'agit surtout de *manipuler et réfléchir*.
 
 ## En pratique
 
