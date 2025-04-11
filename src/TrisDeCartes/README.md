@@ -37,23 +37,23 @@ marre).
 
 On peut discuter stratégie avec les groupes qui obtiennent les meilleurs scores (une
 ou deux cartes retournées seulement), mais il n'y a pas de stratégie à ce jeu (sauf à
-tricher). Les meilleurs scores ne sont dûs qu'à la chance.
+tricher). Les meilleurs scores ne sont dus qu'à la chance.
 
 ### Phase "dichotomie"
 
-Après avoir tracé un grand trait vertical au tableau pour séparer les anciens essais
-de ce qui arrive, on joue maintenant avec des cartes triées. La personne qui choisit
-la carte ne dit plus la valeur de la carte dès le départ, mais annonce si la carte
-retournée est celle cherchée, ou bien si la carte à trouver est plus grande ou plus
-petite que la carte retournée.
+Après avoir tracé un grand trait vertical au tableau pour séparer les anciens
+essais de ce qui arrive, on joue maintenant avec des cartes triées. La personne
+qui choisit la carte ne dit plus la valeur de la carte dès le départ. À la
+place, il indique si la carte retournée est celle cherchée, ou bien si la carte
+à trouver est plus grande ou plus petite que la carte retournée.
 
 Comme auparavant, l'animateur·ice tient des statistiques du nombre de coups qu'il a
-fallu jouer avant de retourner la bonne carte. Même si on n'a pas fait assez
+fallu jouer avant de retourner la bonne carte. Même si l'on n'a pas fait assez
 d'expériences pour que les répartitions soient vraiment représentatives, on voit une
-nette différence. Avant on avait des valeurs entre 1 et 10, après les valeurs
+nette différence. Avant, on avait des valeurs entre 1 et 10, après les valeurs
 au-dessus de 4 sont rares.
 
-Discuter des meilleurs stratégies avec la classe permet à tout le monde de trouver la
+Discuter des meilleures stratégies avec la classe permet à tout le monde de trouver la
 stratégie de recherche par dichotomie. On continue ensuite jusqu'à ce que plus
 personne n'ait besoin de plus de 4 coups pour gagner.
 
@@ -61,25 +61,25 @@ On lance ensuite une discussion sur le nombre maximal de coups à jouer avec 10
 cartes. La réponse est 4 : s'il fallait deviner 1, je vais jouer 5, 3, 2, 1. On
 augmente ensuite le nombre de cartes. Avec la méthode dichotomique (prendre à chaque
 fois la carte du milieu parmi les cartes encore possibles) on élimine à chaque tour
-la moitié des cartes restantes. Avec 52 cartes j'en retourne une des deux du milieu,
+la moitié des cartes restantes. Avec 52 cartes, j'en retourne une des deux du milieu,
 et si je n'ai pas directement gagné on me dit si c'est plus petit ou plus grand et il
 me reste selon les cas 25 ou 26 cartes. Si j'en ai 26 en en retournant une de plus il
 m'en reste 13, puis en retournant celle du milieu il en restera 6, puis 3, puis 1
 puis au coup d'après je suis sûre d'avoir gagné. Pour 52 cartes le nombre maximum à
 retourner est donc 6.
 
-Avec des lycéens, on demande ensuite combien de cartes il faudrait retourner si on en
+Avec des lycéens, on demande ensuite combien de cartes, il faudrait retourner si on en
 avait un million (soit 55 km de cartes si elles font 5,5cm de large). Après une prise
 de représentations, on refait le calcul ensemble (comme ci-dessus avec 52 cartes), et
 l'on arrive au fait que 20 cartes sont suffisantes pour trouver la bonne parmi un
 million. Cela bluffe en général les participants (sauf si ce sont des matheux, bien
 sûr), et c'est l'occasion de mentionner le logarithme car le logarithme à base 2 est
 précisément la fonction indiquant combien de fois on doit diviser un entier par deux
-pour arriver à 1. En primaire, cette aparté est hors sujet.
+pour arriver à 1. En primaire, cet aparté est hors sujet.
 
 ### Phase "recherche d'algorithmes"
 
-Cette phase peut constituer une autre séance en primaire, ou justifier qu'on aille
+Cette phase peut constituer une autre séance en primaire, ou justifier que l'on aille
 plus vite au début pour que tout tienne dans le temps imparti. Elle peut même être
 jouée seule, sans avoir justifié au préalable l'intérêt des tris.
 
@@ -94,10 +94,10 @@ On peut entrecouper la période d'expérimentations en binôme par des remises e
 commun où l'on cherche à faire émerger des algorithmes. Les tris classiques
 comme le tri à bulle (on trie tant qu'on n'a pas fini, c'est-à-dire : je compare
 les cartes deux à deux de droite à gauche et j'inverse celles qui sont à
-l'envers. Quand j'ai fini un parcours, si j'ai rien eu à inverser, c'est que
+l'envers. Quand j'ai fini un parcours, si je n'ai rien eu à inverser, c'est que
 c'est trié et j'arrête), le tri par insertion (on considère la carte à la
 frontière entre la partie triée et la partie non triée, et on la place au bon
-endroit dans la partie triée) et le tri par sélection (on choisi la plus petite
+endroit dans la partie triée) et le tri par sélection (on choisit la plus petite
 carte de la partie non triée, et on la place à la frontière) sont à portée de
 tous participant·es. Les tris récursifs comme le tri fusion et le tri rapide
 sont également réalisables, si l'on dispose de beaucoup de temps. Le tri par tas
@@ -123,14 +123,14 @@ annoncés, avant de les discuter avec le groupe classe.
 
 La phase de découverte des algorithmes est plus ouverte, et peut nécessiter des
 différentiations. Un bon **étayage** consiste à jouer avec les binômes en appliquant
-un algorithme facile à découvrir (comme le tri à bulle) pour inspirer les
+un algorithme simple à découvrir (comme le tri à bulle) pour inspirer les
 participant·es. Les **extensions** les plus simples consistent également à jouer avec
 les binômes, en appliquant d'autres algorithmes simples.
 
 Demander d'évaluer les algorithmes de tris est probablement trop difficile au
 cycle 3, mais cela pourrait faire l'objet d'une quatrième phase avec des
 lycéens. Elle serait similaire aux deux premières phases : on coupe la classe en
-deux, et on donne l'algorithme du tri à bulle à la moitié des binômes et celui
+deux, et l'on donne l'algorithme du tri à bulle à la moitié des binômes et celui
 du tri fusion aux autres. On note au tableau le nombre de comparaisons
 nécessaires avec chaque algorithme, avant de comparer.
 
@@ -147,27 +147,27 @@ informations. Dès 1890, [Herman
 Hollerith](https://fr.wikipedia.org/wiki/Herman_Hollerith) invente une machine
 électromécanique pour traiter les données du recensement de la population
 américaine plus efficacement. Il fondera ensuite IBM, devenue l'une des plus
-grosse entreprise informatique au monde. Cette entreprise commercialise bientôt
-150 ans des machines permettant de [trier des cartes
+grosses entreprises informatique au monde. Cette entreprise commercialise depuis
+bientôt 150 ans des machines permettant de [trier des cartes
 perforées](https://fr.wikipedia.org/wiki/Trieuse) et de [faire des
 statistiques](https://fr.wikipedia.org/wiki/Tabulatrice) sur les informations
 contenues. Ces opérations étaient également l'occupation principale des premiers
 ordinateurs commerciaux dans les années 1960. Le premier programme informatique
-de tri a été écrit par [Betty Holberton](https://fr.wikipedia.org/wiki/Betty_Holberton)
-à la fin des années 1940.
+de tri a été écrit par [Betty
+Holberton](https://fr.wikipedia.org/wiki/Betty_Holberton) à la fin des années
+1940.
 
 ![Trieuse IBM 1419](IBM_1419_magnetic_character_reader_and_sorter.jpg)
 
 (Photo d'une trieuse IBM 1419 des années 1960, crédit [Wikipédia](https://en.wikipedia.org/wiki/IBM_document_processors))
 
-Il existe de nombreux algorithmes de tri, que les futurs informaticien·nes
-apprennent par coeur ces algorithmes au début de leur scolarité.
-
 ### En savoir plus
 
-[Cet article](https://interstices.info/les-algorithmes-de-tri/) d'Interstices
-présente les algorithmes les plus classiques, avec une petite appli javascript
-pour voir les différentes étapes. Les animations de [cette
+Il existe de nombreux algorithmes de tri, que les futurs informaticien·nes
+apprennent par coeur au début de leur scolarité. [Cet
+article](https://interstices.info/les-algorithmes-de-tri/) d'Interstices
+présente les plus classiques, avec une petite appli javascript pour voir les
+différentes étapes. Les animations de [cette
 page](https://www.toptal.com/developers/sorting-algorithms) donnent une
 meilleure idée de l'efficacité comparée des algorithmes. La [page
 wikipedia](https://fr.wikipedia.org/wiki/Algorithme_de_tri) correspondante est
