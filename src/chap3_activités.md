@@ -30,13 +30,13 @@ ne veut pas dire pour autant qu'on peut animer une séance sans la préparer cor
 Deux joueurs s’affrontent et tentent de déterminer une stratégie gagnante. C'est
 une très bonne introduction à la notion d'algorithme.
 
-[Activité prête à l'emploi](Nim/), souvent jouée en CM1/CM2 par exemple.
+Activité prête à l'emploi, souvent jouée en CM1/CM2 par exemple.
 
 **Concepts.** Algorithme: 2; Langage: 0; Information: 0; Machine: 0.
 
 **Compétences.** Pensée algorithmique: 2; Abstraction: 1; Décomposition: 2; Généralisation et motifs 1; Evaluation: 0; Logique: 1
 
-### Crêpier psychorigide
+### [Crêpier psychorigide](CrepierPsychorigide/)
 
 Il faut aider un galettier à ranger ses galettes carrées de la plus grande à la
 plus petite. C'est l'occasion pour les participants de *chercher* un algorithme,

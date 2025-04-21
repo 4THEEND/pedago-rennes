@@ -19,6 +19,8 @@ clean:
 %.pdf: %.svg
 	rsvg-convert -f pdf -o $@ $<
 
+%-500x.png: %.svg
+	rsvg-convert -f png --background-color=white --width=500 --keep-aspect-ratio -o $@ $<
 %-300x.png: %.svg
 	rsvg-convert -f png --background-color=white --width=300 --keep-aspect-ratio -o $@ $<
 %-100x.png: %.svg

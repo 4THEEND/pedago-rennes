@@ -17,7 +17,8 @@ cailloux, mais il est plus pratique d'utiliser les petits jetons de la série
 d'activité SMN. Ce matériel est prêt à être imprimé sur une feuille A4
 autocollante, puis collé sur du carton plume. On n'utilise que les petits pions
 carrés dans cette activité, tandis que les grands rectangles sont utilisés dans
-l'activité du Crépier psychorigide et du Baseball multicolore.
+l'activité du [Crépier psychorigide](../CrepierPsychorigide/) et celle du Baseball
+multicolore.
 
  [![Matériel à découper.](materiel-SMN-300x.png)](materiel-SMN.pdf)
 
@@ -120,8 +121,6 @@ Certains algorithmes peuvent *apprendre* de leurs essais (on parle alors
 d'intelligence artificielle), ou tirent leurs actions au hasard (ce sont des
 algorithmes randomisés). Mais au final, leur procédure pour apprendre ou pour
 tirer au hasard est toujours pré-déterminée par le programme utilisé.
-
-
 
 ## Matériel supplémentaire
 
