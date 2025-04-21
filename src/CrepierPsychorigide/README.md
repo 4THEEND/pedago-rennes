@@ -2,7 +2,7 @@
 
 Le but de cette activité est de permettre aux participant·es de découvrir un
 algorithme par eux-mêmes. Elle constitue donc une suite logique à une activité
-de découverte de la notion d'algorithme comme le [jeu de Nim](Nim/), mais elle
+de découverte de la notion d'algorithme comme le [jeu de Nim](../Nim/), mais elle
 peut également être jouée de façon indépendante.
 
 En pratique, il s'agit de trier des planchettes de bois ou plastique par taille
