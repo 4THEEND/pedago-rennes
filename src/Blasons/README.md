@@ -12,7 +12,7 @@ Cette activité est prête à l'emploi et vraiment rodée. Elle a souvent été 
 d'enseignants.
 
 
-## Déroulé
+## Matériel et déroulé
 
 Le matériel associé à cette activité se compose d'une feuille de consignes à
 couper en 4 pour les quatre phases de l'activité, ainsi que d'une feuille de

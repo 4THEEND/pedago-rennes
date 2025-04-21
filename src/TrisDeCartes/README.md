@@ -11,9 +11,10 @@ de vrais jeux.
 **Compétences mathématiques.**
  Comparer des nombres entiers (cycle 3).
 
-## Déroulé
+## Matériel et déroulé
 
-Cette activité se découpe en trois phases, modulable à l'envi des animateur·ices.
+Cette activité se découpe en trois phases modulables à l'envi des
+animateur·ices. On utilise plusieurs jeux de 52 cartes normaux.
 
 ### Phase "c'est le bazar"
 

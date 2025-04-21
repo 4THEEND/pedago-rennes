@@ -10,7 +10,7 @@ C'est une activité extrêmement bien rodée, testée de la fin du CP à la form
 continue d'enseignants, en passant par le primaire et le lycée.
 
 
-## Déroulé
+## Matériel et déroulé
 
 L'activité se joue avec 36 cartes plastifiées toutes identiques, mais avec les
 deux faces de deux couleurs différentes, ainsi qu'un petit "trésor" que l'on

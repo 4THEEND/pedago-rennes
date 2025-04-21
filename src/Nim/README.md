@@ -8,7 +8,7 @@ cycle 3 (dès le CM1).
 - **Compétences.** Pensée algorithmique: 2; Abstraction: 1; Décomposition: 2; Généralisation et motifs 1; Evaluation: 0; Logique: 1
 - **Compétences non-informatiques.** développer un vocabulaire précis
 
-## Déroulé
+## Matériel et déroulé
 
 C'est un jeu à deux joueurs où l'on dispose de 12, 16 ou 20 objets quelconques.
 On peut utiliser des allumettes comme dans la [variante de

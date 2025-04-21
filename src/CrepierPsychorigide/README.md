@@ -18,7 +18,7 @@ boucle et même la complexité pour les extensions. Si les participant·es
 travaillent en groupe comme conseillé, on apprend de plus à argumenter puis à
 verbaliser son raisonnement.
 
-## Déroulé
+## Matériel et déroulé
 
 Le matériel conseillé pour cette activité est celui de la série d'activités SNM.
 Ce matériel est prêt à être imprimé sur une feuille A4 autocollante et collé
@@ -38,7 +38,7 @@ crêpes au milieu de la pile. La seule chose qu'il peut faire, c'est d'utiliser
 une spatule pour attraper un certain nombre de crêpes en haut de la pile, et les
 retourner. Au final, à chaque coup, il ne fait que choisir combien de crêpes du
 haut de la pile qu'il veut retourner. L'exemple ci-dessous illustre ce qu'il se
-passe  avec la situation initiale ci-dessus s'il décide de retourner quatre
+passe avec la situation initiale ci-dessus s'il décide de retourner quatre
 crêpes.
 
  ![Coups autorisés.](crepes_un-coup-500x.png)
